@@ -5,7 +5,7 @@
         Soy un estudiante en programación. Puede que sea difícil, pero no pienso rendirme.
     </p>
 
-<img src="profile.png" style="border-radius: 50%; border: 2px solid white; width: 40%; margin: 20px">
+<img src="profile.png" style="border-radius: 50%; border: 2px solid white; width: 40%; margin: 30px">
 
 </div>
 

@@ -5,7 +5,7 @@
         Soy un estudiante en programación apasionado en el mundo web Front End. Aunque el camino hasta ahora es difícil, no pienso rendirme.
     </p>
 
-<img src="avatar.png" style="border-radius: 50%; border: 2px solid white; width: 50%; margin: 30px;">
+<img src="profile.png" style="border-radius: 50%; border: 2px solid white; width: 50%; margin: 30px;">
 
 </div>
 

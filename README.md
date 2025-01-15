@@ -1,21 +1,25 @@
 # Hola, soy OverCode! :wave:
 
 <div align="center">
-    <p style="font-size: 1.1em">
-        Soy un estudiante en programación. Puede que sea difícil, pero no pienso rendirme.
+    <p style="font-size: 1.1em; text-align: left;">
+        Soy un estudiante en programación apasionado en el mundo web Front End. Aunque el camino hasta ahora es difícil, no pienso rendirme.
     </p>
 
-<img src="profile.png" style="border-radius: 50%; border: 2px solid white; width: 40%; margin: 30px">
+<img src="avatar.png" style="border-radius: 50%; border: 2px solid white; width: 50%; margin: 30px;">
 
 </div>
 
 ## Tecnologías:
-[![Python](https://img.shields.io/badge/Python-3d74a7?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-f89b24?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-[![MySQL](https://img.shields.io/badge/MySQL-086690?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)]()
+<br>
+
+![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 ## Contáctame:
 [![Email](https://img.shields.io/badge/avalosfigueroapedro@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:avalosfigueroapedro@gmail.com)
